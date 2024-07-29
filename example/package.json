@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "expo": "~51.0.17",
-    "expo-health-connect": "file:..",
+    "expo-health-connect": "^0.1.0",
     "react": "18.2.0",
     "react-native": "0.74.2",
-    "react-native-health-connect": "^2.0.3"
+    "react-native-health-connect": "^2.0.3",
+    "expo-dev-client": "~4.0.20"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
